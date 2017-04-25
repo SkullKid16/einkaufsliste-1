@@ -1,6 +1,6 @@
 ***Ich hatte nie wirklich einen Plan, jetzt steh ich hier und weiss immer noch nicht weiter.***
 
-#Ich war nie ein Rapper, ich hab nie die Schule geschw‰nzt.
+#Ich war nie ein Rapper, ich hab nie die Schule geschw√§nzt.
 
 *blablabalbal
 
@@ -8,4 +8,4 @@
 
 *blablabal
 
-!(http://www.immovation-ag.de/salamander-areal/__neuer-blog/affe.jpg)
+!http://www.immovation-ag.de/salamander-areal/__neuer-blog/affe.jpg
