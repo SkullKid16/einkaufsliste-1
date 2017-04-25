@@ -8,4 +8,4 @@
 
 *blablabal
 
-!http://www.immovation-ag.de/salamander-areal/__neuer-blog/affe.jpg
+!("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS88Apqt2zOcFPs5dRFhHh2MDsSR7-FZbPNP6Jvyk7CQy3hFawFcw")
